@@ -47,6 +47,5 @@ int main(void)
       printf("\n Read Error \n");
     }
  
- 
-  return 0;
+
 }
